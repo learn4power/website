@@ -1,6 +1,3 @@
-# learn4power
-4654444564564564564564564544231231231889898495645231231489878979
+樣板來自NIM V1.0 FREE CSS TEMPLATE
+http://www.free-css.com/free-css-templates/page205/nim-v1.0
 
-
-asgasdgagaghahahadhfahdsfhadfh
-hgj.ghj.ghj.
