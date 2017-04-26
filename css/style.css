@@ -383,6 +383,7 @@ div.preloader {
  
 /* Navigation */
 .nim-menu{
+	display:none;
 	padding: 10px;
 	transition: all 0.8s;
         background:#000;
@@ -448,7 +449,6 @@ color:#fff;
 	background-size:cover;
 	background-attachment: fixed;
 	color: #cfcfcf;
-        margin-top:80px;
 }
 
 .overlay{
